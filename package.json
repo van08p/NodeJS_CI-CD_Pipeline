@@ -1,0 +1,14 @@
+{
+    "name": "nodejs-ci-cd",
+    "version": "1.0.0",
+    "description": "A Node.js app with a CI/CD pipeline",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
